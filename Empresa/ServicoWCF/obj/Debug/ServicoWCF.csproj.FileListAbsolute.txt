@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\obj\Debug\ServicoWCF.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\bin\Debug\ServicoWCF.exe.config
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\bin\Debug\ServicoWCF.exe
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\bin\Debug\ServicoWCF.pdb
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\bin\Debug\EntityFramework.dll
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\bin\Debug\EntityFramework.xml
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\obj\Debug\ServicoWCF.exe
+C:\Users\aluno\source\repos\Empresa\ServicoWCF\obj\Debug\ServicoWCF.pdb
